@@ -8,4 +8,7 @@ HTML, CSS, javaScript
 
 # Ekran GİF
 
-![VideoScreen1729022511383-ezgif com-optimize (2)](https://github.com/user-attachments/assets/23bdbc78-0b1c-4252-ac29-85c0d8d67d4e)
+
+
+https://github.com/user-attachments/assets/4db47aef-08a3-4e92-85ad-431432179af7
+
