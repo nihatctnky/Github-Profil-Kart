@@ -8,7 +8,8 @@ HTML, CSS, javaScript
 
 # Ekran GİF
 
+![Video Screen1729415403042 (1)](https://github.com/user-attachments/assets/e2a17367-1571-4df9-8c80-0e076d64ae4a)
 
 
-https://github.com/user-attachments/assets/4db47aef-08a3-4e92-85ad-431432179af7
+
 
